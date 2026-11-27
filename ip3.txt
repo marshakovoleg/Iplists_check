@@ -1,17 +1,10 @@
-DNS over HTTPS (DoH) server IP list
+1.1.1.1
+1.0.0.1
+1.0.0.0/30
+1.0.0.0/29
+1.2.2.0/28
+# security.cloudflare-dns.com - see IPs further down this list
 
-DNS over HTTPS (DoH) server IP list
-DNS over HTTPS (DoH) server IP list
-
-
-DNS over HTTPS (DoH) server IP list
-
-DNS over HTTPS (DoH) server IP list
-
-DNS over HTTPS (DoH) server IP list
-22
-
-2
-2
-2DNS over HTTPS (DoH) server IP list
-DNS over HTTPS (DoH) server IP listDNS over HTTPS (DoH) server IP list
+# security.cloudflare-dns.com - see IPs further down this list
+1.0.0.2
+# family.cloudflare-dns.com
